@@ -89,3 +89,9 @@ header{
 .Arjun-and-shree-krishna{
   height:400px;width:100%;object-fit: cover;
 }
+
+@media screen and (max-width:380px){
+  .viewgrid{
+    display:block;
+  }
+}
