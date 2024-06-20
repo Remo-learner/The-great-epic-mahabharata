@@ -1,0 +1,91 @@
+body{
+  margin:0;font-family:sans-serif;
+}
+.headposter{
+  position:relative;min-width: 780px;
+}
+.mahabharatposter{
+  height:740px;width:100%;object-fit:cover;
+}
+.mahabharatposterbox{
+  height:740px;width:100%;background-color: rgba(78, 78, 78, 0.414);
+ position: absolute;top:0;
+}
+.header{
+  position:absolute;top:10px;color:white;margin-left:20px;
+  margin-top:20px;display:flex;width:98%;
+}
+.logo{
+  font-weight:bolder;font-size:30px;font-family:Georgia;
+  display: flex;flex:1;
+}
+.logotext{
+  margin:0;width:100px;
+}
+.right-section{
+  display:flex;align-items: center;
+}
+.right-section p{
+  margin-left:20px;margin-right:20px;
+}
+.right-section button{
+  margin-right:10px;padding:10px 5px;border:2px solid white;border-radius:4px;
+  background-color: rgba(255, 255, 255, 0);
+  color:white;font-weight: bold;cursor: pointer;
+}
+.right-section button:hover{
+  background-color: rgba(255, 255, 255, 0.348);
+}
+.right-section button:active{
+  background-color: rgba(62, 62, 62, 0.348);
+}
+.headertitle{
+  position: absolute;top:300px;left:20px;
+}
+h1{
+  color:rgb(255, 255, 255);
+  background-color: rgba(126, 126, 126, 0.499);
+  font-size:40px;font-family:'Courier New';
+  padding:20px;margin-right:20px;
+}
+.boxtext{
+  color:white;
+  background-color: rgba(126, 126, 126, 0.499);
+  font-size:24px;margin-right:20px;
+}
+.headertitle button{
+  margin-top:10px;padding:10px 5px;border:2px solid white;border-radius:4px;
+  background-color: rgba(255, 255, 255, 0);
+  color:white;font-weight: bold;cursor: pointer;
+}
+.headertitle button:hover{
+  background-color: rgba(255, 255, 255, 0.348);
+}
+.headertitle button:active{
+  background-color: rgba(62, 62, 62, 0.348);
+}
+header{
+  margin-top:50px;font-size:40px;margin-bottom:30px;margin-left:20px;
+}
+.viewgrid{
+  display:grid;grid-template-columns:1fr 1fr 1fr;column-gap: 20px;
+}
+.viewbox{
+  margin-left: 20px;margin-right: 20px;box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.15);margin-bottom:50px;padding:10px;
+}
+.chakraviewpic{
+  height:400px;width:100%;object-fit: cover;
+}
+
+.title-details{
+  margin-top:5px;margin-bottom:10px;color:rgb(62, 62, 62);
+}
+.mainbody{
+  line-height:26px;;
+}
+.ranbhumi{
+  width:100%;object-fit: cover;height:400px;
+}
+.Arjun-and-shree-krishna{
+  height:400px;width:100%;object-fit: cover;
+}
