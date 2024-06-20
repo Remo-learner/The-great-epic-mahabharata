@@ -90,7 +90,7 @@ header{
   height:400px;width:100%;object-fit: cover;
 }
 
-@media screen and (max-width:380px){
+@media screen and (max-width:792px){
   .viewgrid{
     display:block;
   }
